@@ -1,0 +1,235 @@
+﻿body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+    background-color: #f4f4f4;
+}
+
+header {
+    background-color: #007BFF;
+    color: white;
+    padding: 10px 20px;
+    position: relative;
+}
+
+.header-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+}
+
+h1 {
+    margin: 0;
+    flex-grow: 1; /* Allows h1 to take up available space */
+    text-align: center; /* Centers the title */
+}
+
+#logoutButton {
+    position: absolute; /* Position logout button absolutely */
+    right: 20px; /* Place it 20px from the right edge */
+    top: 50%;
+    transform: translateY(-50%); /* Center vertically */
+    background-color: #dc3545; /* Red for logout */
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 5px 10px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+    #logoutButton:hover {
+        background-color: #c82333; /* Darker red on hover */
+    }
+
+#searchContainer {
+    margin: 20px auto; /* Center the search bar */
+    display: flex; /* Use flexbox for alignment */
+    justify-content: center; /* Center items horizontally */
+}
+
+#searchInput {
+    width: 300px; /* Set a fixed width for the input */
+    padding: 10px; /* Add padding for better spacing */
+    border: 1px solid #ccc; /* Light border for the input */
+    border-radius: 5px; /* Rounded corners */
+    font-size: 16px; /* Increase font size for readability */
+}
+
+#sortSelect {
+    height: 40px;
+    margin-left: 10px; /* Space between the search input and dropdown */
+    padding: 10px; /* Add padding for better spacing */
+    border: 1px solid #ccc; /* Light border for the dropdown */
+    border-radius: 5px; /* Rounded corners */
+    font-size: 16px; /* Increase font size for readability */
+}
+
+#dishes {
+    margin-top: 20px;
+    display: flex;
+    flex-wrap: wrap; /* Enable wrapping for better responsiveness */
+    justify-content: center;
+}
+
+.dish {
+    background-color: white;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 10px;
+    width: 300px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+
+    .dish img {
+        width: 100%;
+        height: 200px;
+        object-fit: cover;
+        border-radius: 5px;
+    }
+
+h2 {
+    color: #333;
+}
+
+p {
+    color: #666;
+}
+
+.star-rating {
+    display: none;
+}
+
+.rate-button {
+    background-color: #28a745;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 5px 10px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+    margin-top: 5px;
+}
+
+    .rate-button:hover {
+        background-color: #218838;
+    }
+
+.worker-button {
+    background-color: #dc3545; 
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 5px 10px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+    margin-top: 5px;
+}
+
+    .worker-button:hover {
+        background-color: #c82333; 
+    }
+
+.update-button {
+    background-color: #ffc107; 
+    color: black;
+    border: none;
+    border-radius: 5px;
+    padding: 5px 10px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+    margin-top: 5px;
+}
+
+    .update-button:hover {
+        background-color: #e0a800; 
+    }
+
+button {
+    margin-top: 5px;
+}
+
+@media (max-width: 768px) {
+    .dish {
+        width: 90%;
+        margin: 10px 0;
+    }
+}
+
+.modal {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: white;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 20px;
+    width: 300px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    z-index: 1000;
+}
+
+    .modal button {
+        width: 100%;
+        margin-top: 10px;
+    }
+
+#updateDishForm,
+#createDishForm {
+    margin-top: 20px;
+    padding: 20px;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+input[type="text"],
+input[type="number"],
+input[type="file"] {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    font-size: 16px;
+}
+
+footer {
+    text-align: center;
+    margin-top: 20px;
+    font-size: 14px;
+    color: #666;
+}
+
+/* Center and style the dish details container */
+#dishDetailContainer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 20px auto;
+    max-width: 600px;
+    text-align: center;
+}
+
+/* Style the image */
+#dishImage {
+    width: 100%;
+    height: auto;
+    max-width: 400px; 
+    margin-bottom: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+/* Style the description and price */
+#dishDescription, #dishPrice {
+    font-size: 18px;
+    color: #333;
+    margin: 10px 0;
+}
+

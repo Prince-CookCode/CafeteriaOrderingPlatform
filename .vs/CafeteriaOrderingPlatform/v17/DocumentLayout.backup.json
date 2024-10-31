@@ -1,0 +1,263 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\27762\\Desktop\\CafeteriaOrderingPlatform\\CafeteriaOrderingPlatform\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{67CB010D-A31F-4C17-BDE2-9A7FDB297C54}|CafeteriaOrderingPlatform.csproj|c:\\users\\27762\\desktop\\cafeteriaorderingplatform\\cafeteriaorderingplatform\\models\\dish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67CB010D-A31F-4C17-BDE2-9A7FDB297C54}|CafeteriaOrderingPlatform.csproj|solutionrelative:models\\dish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67CB010D-A31F-4C17-BDE2-9A7FDB297C54}|CafeteriaOrderingPlatform.csproj|c:\\users\\27762\\desktop\\cafeteriaorderingplatform\\cafeteriaorderingplatform\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67CB010D-A31F-4C17-BDE2-9A7FDB297C54}|CafeteriaOrderingPlatform.csproj|solutionrelative:migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67CB010D-A31F-4C17-BDE2-9A7FDB297C54}|CafeteriaOrderingPlatform.csproj|c:\\users\\27762\\desktop\\cafeteriaorderingplatform\\cafeteriaorderingplatform\\migrations\\20241029164750_addratingtodish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67CB010D-A31F-4C17-BDE2-9A7FDB297C54}|CafeteriaOrderingPlatform.csproj|solutionrelative:migrations\\20241029164750_addratingtodish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67CB010D-A31F-4C17-BDE2-9A7FDB297C54}|CafeteriaOrderingPlatform.csproj|c:\\users\\27762\\desktop\\cafeteriaorderingplatform\\cafeteriaorderingplatform\\migrations\\20241028221653_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67CB010D-A31F-4C17-BDE2-9A7FDB297C54}|CafeteriaOrderingPlatform.csproj|solutionrelative:migrations\\20241028221653_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67CB010D-A31F-4C17-BDE2-9A7FDB297C54}|CafeteriaOrderingPlatform.csproj|c:\\users\\27762\\desktop\\cafeteriaorderingplatform\\cafeteriaorderingplatform\\frontend\\script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{67CB010D-A31F-4C17-BDE2-9A7FDB297C54}|CafeteriaOrderingPlatform.csproj|solutionrelative:frontend\\script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67CB010D-A31F-4C17-BDE2-9A7FDB297C54}|CafeteriaOrderingPlatform.csproj|c:\\users\\27762\\desktop\\cafeteriaorderingplatform\\cafeteriaorderingplatform\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67CB010D-A31F-4C17-BDE2-9A7FDB297C54}|CafeteriaOrderingPlatform.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67CB010D-A31F-4C17-BDE2-9A7FDB297C54}|CafeteriaOrderingPlatform.csproj|c:\\users\\27762\\desktop\\cafeteriaorderingplatform\\cafeteriaorderingplatform\\controllers\\dishescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67CB010D-A31F-4C17-BDE2-9A7FDB297C54}|CafeteriaOrderingPlatform.csproj|solutionrelative:controllers\\dishescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67CB010D-A31F-4C17-BDE2-9A7FDB297C54}|CafeteriaOrderingPlatform.csproj|c:\\users\\27762\\desktop\\cafeteriaorderingplatform\\cafeteriaorderingplatform\\frontend\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{67CB010D-A31F-4C17-BDE2-9A7FDB297C54}|CafeteriaOrderingPlatform.csproj|solutionrelative:frontend\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67CB010D-A31F-4C17-BDE2-9A7FDB297C54}|CafeteriaOrderingPlatform.csproj|c:\\users\\27762\\desktop\\cafeteriaorderingplatform\\cafeteriaorderingplatform\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67CB010D-A31F-4C17-BDE2-9A7FDB297C54}|CafeteriaOrderingPlatform.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67CB010D-A31F-4C17-BDE2-9A7FDB297C54}|CafeteriaOrderingPlatform.csproj|c:\\users\\27762\\desktop\\cafeteriaorderingplatform\\cafeteriaorderingplatform\\frontend\\login.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{67CB010D-A31F-4C17-BDE2-9A7FDB297C54}|CafeteriaOrderingPlatform.csproj|solutionrelative:frontend\\login.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67CB010D-A31F-4C17-BDE2-9A7FDB297C54}|CafeteriaOrderingPlatform.csproj|c:\\users\\27762\\desktop\\cafeteriaorderingplatform\\cafeteriaorderingplatform\\frontend\\login.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{67CB010D-A31F-4C17-BDE2-9A7FDB297C54}|CafeteriaOrderingPlatform.csproj|solutionrelative:frontend\\login.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67CB010D-A31F-4C17-BDE2-9A7FDB297C54}|CafeteriaOrderingPlatform.csproj|c:\\users\\27762\\desktop\\cafeteriaorderingplatform\\cafeteriaorderingplatform\\frontend\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{67CB010D-A31F-4C17-BDE2-9A7FDB297C54}|CafeteriaOrderingPlatform.csproj|solutionrelative:frontend\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67CB010D-A31F-4C17-BDE2-9A7FDB297C54}|CafeteriaOrderingPlatform.csproj|c:\\users\\27762\\desktop\\cafeteriaorderingplatform\\cafeteriaorderingplatform\\frontend\\dish-detail.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{67CB010D-A31F-4C17-BDE2-9A7FDB297C54}|CafeteriaOrderingPlatform.csproj|solutionrelative:frontend\\dish-detail.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67CB010D-A31F-4C17-BDE2-9A7FDB297C54}|CafeteriaOrderingPlatform.csproj|c:\\users\\27762\\desktop\\cafeteriaorderingplatform\\cafeteriaorderingplatform\\frontend\\dish-detail.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{67CB010D-A31F-4C17-BDE2-9A7FDB297C54}|CafeteriaOrderingPlatform.csproj|solutionrelative:frontend\\dish-detail.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67CB010D-A31F-4C17-BDE2-9A7FDB297C54}|CafeteriaOrderingPlatform.csproj|c:\\users\\27762\\desktop\\cafeteriaorderingplatform\\cafeteriaorderingplatform\\cafeteriaorderingplatform.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{67CB010D-A31F-4C17-BDE2-9A7FDB297C54}|CafeteriaOrderingPlatform.csproj|solutionrelative:cafeteriaorderingplatform.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DishesController.cs",
+              "DocumentMoniker": "C:\\Users\\27762\\Desktop\\CafeteriaOrderingPlatform\\CafeteriaOrderingPlatform\\Controllers\\DishesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DishesController.cs",
+              "ToolTip": "C:\\Users\\27762\\Desktop\\CafeteriaOrderingPlatform\\CafeteriaOrderingPlatform\\Controllers\\DishesController.cs",
+              "RelativeToolTip": "Controllers\\DishesController.cs",
+              "ViewState": "AgIAAI8AAAAAAAAAAAAgwJ0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T21:47:10.738Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "styles.css",
+              "DocumentMoniker": "C:\\Users\\27762\\Desktop\\CafeteriaOrderingPlatform\\CafeteriaOrderingPlatform\\Frontend\\styles.css",
+              "RelativeDocumentMoniker": "Frontend\\styles.css",
+              "ToolTip": "C:\\Users\\27762\\Desktop\\CafeteriaOrderingPlatform\\CafeteriaOrderingPlatform\\Frontend\\styles.css",
+              "RelativeToolTip": "Frontend\\styles.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-28T23:53:58.363Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "script.js",
+              "DocumentMoniker": "C:\\Users\\27762\\Desktop\\CafeteriaOrderingPlatform\\CafeteriaOrderingPlatform\\Frontend\\script.js",
+              "RelativeDocumentMoniker": "Frontend\\script.js",
+              "ToolTip": "C:\\Users\\27762\\Desktop\\CafeteriaOrderingPlatform\\CafeteriaOrderingPlatform\\Frontend\\script.js",
+              "RelativeToolTip": "Frontend\\script.js",
+              "ViewState": "AgIAALoAAAAAAAAAAAA1wL8AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-10-28T23:54:53.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\27762\\Desktop\\CafeteriaOrderingPlatform\\CafeteriaOrderingPlatform\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\27762\\Desktop\\CafeteriaOrderingPlatform\\CafeteriaOrderingPlatform\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Migrations\\AppDbContextModelSnapshot.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAkwCkAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T22:37:56.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20241028221653_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\27762\\Desktop\\CafeteriaOrderingPlatform\\CafeteriaOrderingPlatform\\Migrations\\20241028221653_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241028221653_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\27762\\Desktop\\CafeteriaOrderingPlatform\\CafeteriaOrderingPlatform\\Migrations\\20241028221653_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20241028221653_InitialCreate.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwAcAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T22:16:57.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20241029164750_AddRatingToDish.cs",
+              "DocumentMoniker": "C:\\Users\\27762\\Desktop\\CafeteriaOrderingPlatform\\CafeteriaOrderingPlatform\\Migrations\\20241029164750_AddRatingToDish.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241029164750_AddRatingToDish.cs",
+              "ToolTip": "C:\\Users\\27762\\Desktop\\CafeteriaOrderingPlatform\\CafeteriaOrderingPlatform\\Migrations\\20241029164750_AddRatingToDish.cs",
+              "RelativeToolTip": "Migrations\\20241029164750_AddRatingToDish.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwBwAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T16:47:52.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dish.cs",
+              "DocumentMoniker": "C:\\Users\\27762\\Desktop\\CafeteriaOrderingPlatform\\CafeteriaOrderingPlatform\\Models\\Dish.cs",
+              "RelativeDocumentMoniker": "Models\\Dish.cs",
+              "ToolTip": "C:\\Users\\27762\\Desktop\\CafeteriaOrderingPlatform\\CafeteriaOrderingPlatform\\Models\\Dish.cs",
+              "RelativeToolTip": "Models\\Dish.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAmwBUAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T21:36:27.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\27762\\Desktop\\CafeteriaOrderingPlatform\\CafeteriaOrderingPlatform\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\27762\\Desktop\\CafeteriaOrderingPlatform\\CafeteriaOrderingPlatform\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T21:17:46.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\27762\\Desktop\\CafeteriaOrderingPlatform\\CafeteriaOrderingPlatform\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\27762\\Desktop\\CafeteriaOrderingPlatform\\CafeteriaOrderingPlatform\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T21:23:31.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "login.js",
+              "DocumentMoniker": "C:\\Users\\27762\\Desktop\\CafeteriaOrderingPlatform\\CafeteriaOrderingPlatform\\Frontend\\login.js",
+              "RelativeDocumentMoniker": "Frontend\\login.js",
+              "ToolTip": "C:\\Users\\27762\\Desktop\\CafeteriaOrderingPlatform\\CafeteriaOrderingPlatform\\Frontend\\login.js",
+              "RelativeToolTip": "Frontend\\login.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-10-29T00:15:59.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "login.html",
+              "DocumentMoniker": "C:\\Users\\27762\\Desktop\\CafeteriaOrderingPlatform\\CafeteriaOrderingPlatform\\Frontend\\login.html",
+              "RelativeDocumentMoniker": "Frontend\\login.html",
+              "ToolTip": "C:\\Users\\27762\\Desktop\\CafeteriaOrderingPlatform\\CafeteriaOrderingPlatform\\Frontend\\login.html",
+              "RelativeToolTip": "Frontend\\login.html",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAgwGgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-10-29T00:13:48.329Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\27762\\Desktop\\CafeteriaOrderingPlatform\\CafeteriaOrderingPlatform\\Frontend\\index.html",
+              "RelativeDocumentMoniker": "Frontend\\index.html",
+              "ToolTip": "C:\\Users\\27762\\Desktop\\CafeteriaOrderingPlatform\\CafeteriaOrderingPlatform\\Frontend\\index.html",
+              "RelativeToolTip": "Frontend\\index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-10-28T23:13:11.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "dish-detail.js",
+              "DocumentMoniker": "C:\\Users\\27762\\Desktop\\CafeteriaOrderingPlatform\\CafeteriaOrderingPlatform\\Frontend\\dish-detail.js",
+              "RelativeDocumentMoniker": "Frontend\\dish-detail.js",
+              "ToolTip": "C:\\Users\\27762\\Desktop\\CafeteriaOrderingPlatform\\CafeteriaOrderingPlatform\\Frontend\\dish-detail.js",
+              "RelativeToolTip": "Frontend\\dish-detail.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-10-31T03:56:29.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "dish-detail.html",
+              "DocumentMoniker": "C:\\Users\\27762\\Desktop\\CafeteriaOrderingPlatform\\CafeteriaOrderingPlatform\\Frontend\\dish-detail.html",
+              "RelativeDocumentMoniker": "Frontend\\dish-detail.html",
+              "ToolTip": "C:\\Users\\27762\\Desktop\\CafeteriaOrderingPlatform\\CafeteriaOrderingPlatform\\Frontend\\dish-detail.html",
+              "RelativeToolTip": "Frontend\\dish-detail.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-10-31T03:40:57.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CafeteriaOrderingPlatform.csproj",
+              "DocumentMoniker": "C:\\Users\\27762\\Desktop\\CafeteriaOrderingPlatform\\CafeteriaOrderingPlatform\\CafeteriaOrderingPlatform.csproj",
+              "RelativeDocumentMoniker": "CafeteriaOrderingPlatform.csproj",
+              "ToolTip": "C:\\Users\\27762\\Desktop\\CafeteriaOrderingPlatform\\CafeteriaOrderingPlatform\\CafeteriaOrderingPlatform.csproj",
+              "RelativeToolTip": "CafeteriaOrderingPlatform.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-29T16:12:23.318Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cafeteria Ordering Platform</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Cafeteria Dishes</h1>
+        <button id="logoutButton" onclick="logout()">Logout</button>
+    </header>
+    <main>
+        <section id="searchContainer">
+            <input type="text" id="searchInput" placeholder="Search for a dish..." onkeyup="searchDishes()">
+            <select id="sortSelect" onchange="sortDishes()">
+                <option value="">Sort By</option>
+                <option value="ratingHighToLow">Rating: High to Low</option>
+                <option value="ratingLowToHigh">Rating: Low to High</option>
+                <option value="priceHighToLow">Price: High to Low</option>
+                <option value="priceLowToHigh">Price: Low to High</option>
+            </select>
+        </section>
+
+        <div id="dishes"></div>
+
+        <!-- Only workers should see this section -->
+        <div id="workerActions" style="display: none;">
+            <button onclick="showCreateForm()" aria-label="Add new dish">Add New Dish</button>
+
+            <!-- Add form for creating a dish -->
+            <form id="createDishForm" style="display: none;">
+                <h2>Create a New Dish</h2>
+                <label for="dishName">Name:</label>
+                <input type="text" id="dishName" placeholder="Name" required>
+
+                <label for="dishDescription">Description:</label>
+                <input type="text" id="dishDescription" placeholder="Description" required>
+
+                <label for="dishPrice">Price:</label>
+                <input type="number" id="dishPrice" placeholder="Price" required>
+
+                <!-- Added field for image upload -->
+                <label for="dishImage">Upload Image:</label>
+                <input type="file" id="dishImage" accept="image/*" required>
+
+                <button type="button" onclick="createDish()">Submit</button>
+            </form>
+        </div>
+
+        <!-- Add form for updating a dish -->
+        <form id="updateDishForm" style="display: none;">
+            <h3>Update Dish</h3>
+            <input type="hidden" id="updateDishId">
+
+            <label for="updateDishName">Name:</label>
+            <input type="text" id="updateDishName">
+
+            <label for="updateDishDescription">Description:</label>
+            <input type="text" id="updateDishDescription">
+
+            <label for="updateDishPrice">Price:</label>
+            <input type="number" id="updateDishPrice">
+
+            <button type="button" onclick="updateDish()">Save Changes</button>
+        </form>
+    </main>
+    <footer>
+        <p>&copy; 2024 Cafeteria Ordering Platform</p>
+    </footer>
+    <script src="script.js" defer></script>
+</body>
+</html>
